@@ -203,6 +203,9 @@
 	.offer-box-products{
 		margin-bottom: 30px;
 	}
+    .slides-navigation{
+        display: none;
+    }
 }
  @media only screen and (min-width: 280px) and (max-width: 599px) {
      .navbar-light .navbar-toggler{
